@@ -13,4 +13,5 @@ console.log(accountId)
 /* var is prefferd less or not preffered in modern day js because of issue in block scope and functional scope*/
 //Agar js me hm variable declare karke chor dete hain and use hm koi value nhi dete hain to print karane pe wo undefined dega.
 let accountState;
+//console.table ka use karte hain hm ek sath bahot sare value ko print karane ke liye taki bar bar console.log na likhna pare.
 console.table([accountId,accountEmail,accountPassword,accountCity,accountState])   //Here value of accountState will be printed as undefined.
