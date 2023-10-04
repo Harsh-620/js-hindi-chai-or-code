@@ -1,4 +1,4 @@
-console.log("hey js");
+console.log("hey js");   
 //Let,var and const.
 //const->change nhi ho sakta cahe hm change karna bh cahe to value.To isme hm kuch important information store kar sakte hain.
 //1.
