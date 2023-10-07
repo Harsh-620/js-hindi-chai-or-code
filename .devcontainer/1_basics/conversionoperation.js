@@ -4,7 +4,7 @@ let negvalue=-value //it converts the original value to negative.
 //concatenation
 let a1="harsh"
 let a2="ranjan"
-//console.log(a1+a2) //harshranjan
+//console.log(a1+a2) //harshranjan is output
 
 /*conversion and concatenation*/
 //console.log("1"+2)//12
